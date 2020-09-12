@@ -4,4 +4,3 @@ Most of the theorems and proofs are based on the text book "mathematical statist
 <img align="middle" width="300" src="https://github.com/seanie12/mathematical-statistics/blob/master/images/book.png">
 
 
-https://github.com/seanie12/mathematical-statistics
